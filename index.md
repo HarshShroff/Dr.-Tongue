@@ -49,9 +49,9 @@ This project ranked 4<sup>th</sup> at [Ideathon 2021](https://sites.google.com/g
 
 ## Model performance
 
-![Model Performance](../master/Performance.png)
+![Model Performance](https://github.com/HarshShroff/Dr_Tongue/blob/master/Performance.png?raw=true)
 
 
 ## How it looks like?
 
-![Output](../master/Appearance.png)
+![Output](https://github.com/HarshShroff/Dr_Tongue/blob/master/Appearance.png?raw=true)
