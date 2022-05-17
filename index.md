@@ -1,6 +1,7 @@
 # Dr. Tongue
-
-Tongue features, such as shape and color, can represent the body's internal health condition (e.g., organs, qi, blood, cold, heat) as well as the severity or advancement of illnesses, as we know. Medical professionals can distinguish clinical symptoms and select appropriate therapies by studying these characteristics. Such kind of diagnosis is dependent on practitioners' subjective eye observation, which is sometimes skewed by personal experience, lighting differences, and other factors. As a result, an objective and quantitative tongue diagnostic approach that can help practitioners' diagnosis is required. As an outcome, this work may benefit both practitioners and ordinary people by using this **Machine Learning based web application**.
+<div style="text-align: justify">
+Tongue features, such as shape and color, can represent the body's internal health condition (e.g., organs, qi, blood, cold, heat) as well as the severity or advancement of illnesses, as we know. Medical professionals can distinguish clinical symptoms and select appropriate therapies by studying these characteristics. Such kind of diagnosis is dependent on practitioners' subjective eye observation, which is sometimes skewed by personal experience, lighting differences, and other factors. As a result, an objective and quantitative tongue diagnostic approach that can help practitioners' diagnosis is required. As an outcome, this work may benefit both practitioners and ordinary people by using this <b>Machine Learning based web application</b>.
+</div>
 
 
 ## User Stories:
